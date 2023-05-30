@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127161800012",
+    "project_id": "fir-bloc-login-32115",
+    "storage_bucket": "fir-bloc-login-32115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127161800012:android:42dbe60f784f6f4d8f2be9",
+        "android_client_info": {
+          "package_name": "com.example.demo_bloc_gmaillogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcYgXFWJEiuEn0vR0OUaczCKM1tVgPe-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
